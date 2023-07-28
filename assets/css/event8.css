@@ -583,7 +583,7 @@ h6 {
 	background-color: #ffffff!important
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 60px;
+	height: 115px;
 	line-height: 60px;
 	padding: 15px 0
 }
@@ -1482,7 +1482,7 @@ input[type="date"], input[type="email"], input[type="number"], input[type="passw
 	}
 	#Top_bar.is-sticky #logo img.logo-sticky {
 		display: inline;
-		max-height: 35px
+		max-height: 68px
 	}
 	.logo-sticky-width-auto #Top_bar.is-sticky #logo img.logo-sticky {
 		width: auto
